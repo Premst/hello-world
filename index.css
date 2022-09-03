@@ -9,3 +9,9 @@ body{
 h1{
     color: red;
 }
+video{
+    width:45vw;
+}
+@media (max-width:650px){
+    width:95vw;
+}
